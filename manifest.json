@@ -6,6 +6,7 @@
   "theme_color": "#d4af7f",
   "background_color": "#ffffff",
   "description": "Guided yoga for transformation—daily practice, therapy, and mindful living.",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/jaitreyayoga/jaitreya-pwa/main/icon-192.png",
