@@ -1,12 +1,18 @@
 {
+  "id": "/",
   "name": "Jaitreya Yoga",
   "short_name": "Jaitreya",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "display_override": ["standalone"],
+  "orientation": "portrait",
   "theme_color": "#d4af7f",
   "background_color": "#ffffff",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["health", "fitness", "lifestyle"],
   "description": "Guided yoga for transformation—daily practice, therapy, and mindful living.",
-  "orientation": "portrait",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/jaitreyayoga/jaitreya-pwa/main/icon-192.png",
