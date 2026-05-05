@@ -7,12 +7,12 @@
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "PASTE_ICON_192_URL_HERE",
+      "src": ""src": "https://raw.githubusercontent.com/jaitreyayoga/jaitreya-pwa/main/icon-192.png"",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "PASTE_ICON_512_URL_HERE",
+      "src": "https://raw.githubusercontent.com/jaitreyayoga/jaitreya-pwa/main/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
