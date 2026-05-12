@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jaitreyayoga.www.twa",
+      "sha256_cert_fingerprints": [
+        "CC:3C:21:F2:09:1E:A0:22:82:3A:DF:EA:17:87:5B:41:BA:79:C7:42:84:7F:56:B2:E1:2C:3E:C5:A0:7E:E7:FF"
+      ]
+    }
+  }
+]
