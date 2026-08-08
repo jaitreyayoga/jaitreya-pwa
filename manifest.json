@@ -1,24 +1,45 @@
 {
+  "id": "/app-home",
   "name": "Jaitreya Yoga",
   "short_name": "Jaitreya",
-  "description": "Where Peace Is Timeless.",
-  "start_url": "./",
-  "scope": "./",
+
+  "start_url": "/app-home",
+  "scope": "/",
+
   "display": "standalone",
+  "display_override": [
+    "standalone"
+  ],
+
   "orientation": "portrait",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+
+  "theme_color": "#d4af7f",
+  "background_color": "#ffffff",
+
+  "lang": "en",
+  "dir": "ltr",
+
+  "categories": [
+    "health",
+    "fitness",
+    "lifestyle",
+    "education"
+  ],
+
+  "description": "Guided yoga for transformation—daily practice, therapy, and mindful living.",
 
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "https://raw.githubusercontent.com/jaitreyayoga/jaitreya-pwa/main/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "https://raw.githubusercontent.com/jaitreyayoga/jaitreya-pwa/main/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
