@@ -1,7 +1,10 @@
 {
   "id": "/app-home",
+
   "name": "Jaitreya Yoga",
   "short_name": "Jaitreya",
+
+  "description": "Guided yoga for transformation—daily practice, therapy, and mindful living.",
 
   "start_url": "/app-home",
   "scope": "/",
@@ -26,17 +29,15 @@
     "education"
   ],
 
-  "description": "Guided yoga for transformation—daily practice, therapy, and mindful living.",
-
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/jaitreyayoga/jaitreya-pwa/main/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://raw.githubusercontent.com/jaitreyayoga/jaitreya-pwa/main/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
