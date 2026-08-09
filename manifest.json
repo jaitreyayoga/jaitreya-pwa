@@ -1,12 +1,12 @@
 {
-  "id": "/app-home",
+  "id": "/app-launch",
 
   "name": "Jaitreya Yoga",
   "short_name": "Jaitreya",
 
   "description": "Guided yoga for transformation—daily practice, therapy, and mindful living.",
 
-  "start_url": "/app-home",
+  "start_url": "/app-launch",
   "scope": "/",
 
   "display": "standalone",
@@ -16,8 +16,8 @@
 
   "orientation": "portrait",
 
-  "theme_color": "#d4af7f",
-  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "background_color": "#000000",
 
   "lang": "en",
   "dir": "ltr",
