@@ -1,12 +1,12 @@
 {
-  "id": "/app-launch",
+  "id": "/app-home",
 
   "name": "Jaitreya Yoga",
   "short_name": "Jaitreya",
 
   "description": "Guided yoga for transformation—daily practice, therapy, and mindful living.",
 
-  "start_url": "/app-launch",
+  "start_url": "/app-home",
   "scope": "/",
 
   "display": "standalone",
