@@ -12,7 +12,9 @@
   "display_override": [
     "standalone"
   ],
-
+"launch_handler": {
+  "client_mode": "navigate-existing"
+}
   "orientation": "portrait",
 
   "theme_color": "#000000",
