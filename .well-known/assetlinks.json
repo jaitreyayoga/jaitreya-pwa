@@ -6,9 +6,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.jaitreyayoga.www.twa",
-      "sha256_cert_fingerprints": [
-        "59:CE:3A:A1:BF:53:1D:34:65:DD:86:74:D2:E1:64:E5:84:78:AC:E3:5F:00:B9:76:3A:BE:19:11:4C:D2:F6:C2"
-      ]
+"sha256_cert_fingerprints": [
+  "59:CE:3A:A1:BF:53:1D:34:65:DD:86:74:D2:E1:64:E5:84:78:AC:E3:5F:00:B9:76:3A:BE:19:11:4C:D2:F6:C2",
+  "CC:3C:21:F2:09:1E:A0:22:82:3A:DF:EA:17:87:5B:41:BA:79:C7:42:84:7F:56:B2:E1:2C:3E:C5:A0:7E:E7:FF"
+]
     }
   }
 ]
